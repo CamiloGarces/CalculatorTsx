@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "calc-camilo-app",
+    "react-calculator": "calc-camilo-app-89aec"
+  }
+}
